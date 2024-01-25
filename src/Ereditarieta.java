@@ -1,4 +1,4 @@
-public class Carlo {
+public class Ereditarieta {
     public static void main(String[] args) {
 
         Animale animaleGenerico = new Animale();
